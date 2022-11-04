@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanjolnoRing&show_icons=true&theme=radical)
 # 图片图床 - 引用1.0
 
 文章目录
